@@ -3,7 +3,7 @@ import Task from "./Task";
 export default {
   component: Task,
   title: "Task",
-  tags: ["autodocs"],
+  // tags: ["autodocs"],
 };
 
 export const Default = {
